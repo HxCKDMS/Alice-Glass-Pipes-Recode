@@ -27,7 +27,7 @@ minecraft {
 }
 
 dependencies {
-    runtime files('libs/buildcraft-6.4.15-dev.jar')
+    runtime files('libs/buildcraft_dev.jar')
 }
 
 processResources
